@@ -8,11 +8,11 @@ This cipher uses two numeric keys to obfuscate characters and ensures reversibil
 
 
 ## Table of Contents
-- [ 🛡️ Encryption Algorithm](#encryption-algorithm)
-- [ 🔓 Decryption Algorithm](#decryption-algorithm)
+- [ Encryption Algorithm](#encryption-algorithm)
+- [ Decryption Algorithm](#decryption-algorithm)
 - [ Test Case Example](#text-case-example)
 - [ Flowchart](#flowcharts)
-- [ 🖥️ Implementation](#c-source-code)
+- [ Implementation](#c-source-code)
 
 #
 #
