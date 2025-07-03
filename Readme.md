@@ -1,3 +1,4 @@
+
 ![Image](https://github.com/user-attachments/assets/e3359f8a-6dc1-4340-a450-fab1a58a5fea)
 # Introduction
 
@@ -6,6 +7,12 @@ Custom Modular Cipher is a symmetric encryption algorithm that uses modular arit
 This cipher uses two numeric keys to obfuscate characters and ensures reversibility using modular inverses.
 
 
+## Table of Contents
+- [ 🛡️ Encryption Algorithm](#encryption-algorithm)
+- [ 🔓 Decryption Algorithm](#decryption-algorithm)
+- [ Test Case Example](#text-case-example)
+- [ Flowchart](#flowcharts)
+- [ 🖥️ Implementation](#c-source-code)
 
 ## 🛡️ Encryption Algorithm
 
