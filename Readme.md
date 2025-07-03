@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/e3359f8a-6dc1-4340-a450-fab1a58a5fea)
 # Introduction
 
 Custom Modular Cipher is a symmetric encryption algorithm that uses modular arithmetic to transform each character of the plaintext using a linear equation. It is inspired by the classical Affine Cipher but with more flexible parameter choices. This cipher is simple yet effective for demonstrating number theory and modular inverse concepts.
