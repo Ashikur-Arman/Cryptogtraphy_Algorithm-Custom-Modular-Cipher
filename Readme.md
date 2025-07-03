@@ -106,6 +106,7 @@ Use:
 
 
 ## Flowchart
+![Image](https://github.com/user-attachments/assets/ec6c7f6b-3f02-463f-b954-52348c98f215)
 
 #
 #
