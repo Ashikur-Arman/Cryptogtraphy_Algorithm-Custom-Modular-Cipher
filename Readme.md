@@ -7,7 +7,7 @@ This cipher uses two numeric keys to obfuscate characters and ensures reversibil
 
 
 
-## 🔒 Encryption Algorithm
+## 🛡️ Encryption Algorithm
 
 Formula:
 
@@ -60,7 +60,7 @@ Using:
 
 #
 #
-### 🔒 Encryption Table:
+### 🛡️ Encryption Table:
 
 | Char | ASCII(x) | E(x) = (5x + 8) mod 256 | Encrypted ASCII | Encrypted Char |
 | ---- | -------- | ----------------------- | --------------- | -------------- |
@@ -72,10 +72,9 @@ Using:
 | S    | 83       | (same as before) = 179  | 179             | `³`            |
 | E    | 69       | (5×69 + 8) % 256 = 97   | 97              | `a`            |
 
-🔐 Encrypted Text: p³¸½W³a
+🛡️ Encrypted Text: p³¸½W³a
 
 #
-
 #
 #
 
@@ -180,3 +179,4 @@ Encrypted: p³¸½W³a
 Decrypted: HSTUCSE
 ```
 
+Note: Encrypted characters like ³¸½ are extended ASCII and may show differently in some C++ compilers or terminals (especially on Windows CMD). But the logic works correctly, and we’ll always get back "HSTUCSE" as decrypted output.
