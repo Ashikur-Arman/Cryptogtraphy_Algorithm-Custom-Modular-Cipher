@@ -14,6 +14,9 @@ This cipher uses two numeric keys to obfuscate characters and ensures reversibil
 - [ Flowchart](#flowcharts)
 - [ 🖥️ Implementation](#c-source-code)
 
+#
+#
+
 ## 🛡️ Encryption Algorithm
 
 Formula:
