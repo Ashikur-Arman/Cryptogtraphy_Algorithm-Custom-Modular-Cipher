@@ -191,3 +191,17 @@ Decrypted: HSTUCSE
 ```
 
 Note: Encrypted characters like ³¸½ are extended ASCII and may show differently in some C++ compilers or terminals (especially on Windows CMD). But the logic works correctly, and we’ll always get back "HSTUCSE" as decrypted output.
+
+
+## Future Improvements of the Custom Modular Cipher:
+
+- Dynamic key generation based on passphrase or timestamp
+- Block-based encryption instead of character-wise
+- Rotating (a, b) key pairs for each character
+- Use of stronger mathematical functions (e.g., non-linear equations)
+- Extend to support full Unicode (UTF-8) characters
+- Add integrity checks using hash functions (e.g., SHA-256)
+- Combine with other ciphers for hybrid encryption
+- Optimize modular inverse using Extended Euclidean Algorithm
+- Improve performance using lookup tables
+
